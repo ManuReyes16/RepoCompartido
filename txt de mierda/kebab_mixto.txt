@@ -1,2 +1,6 @@
 con salsa y picante
+<<<<<<< HEAD
 y con de to
+=======
+y mucha mierda
+>>>>>>> 7486f0d30bcf12849c8a1d606677da008eabdb1a
